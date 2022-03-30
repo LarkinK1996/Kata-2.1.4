@@ -18,3 +18,4 @@ public class Egg6 {
         return ", в яйце иголка " + needle.toString();
     }
 }
+
